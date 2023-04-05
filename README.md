@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to MERN stack and related technologies  
 
 
-- 📫 How to reach me: you can reach me on [twitter](https://twitter.com/MoongaDez) or send me an [email](https://mailto:moongachiku@gmail.com)
+- 📫 How to reach me: you can reach me on [twitter](https://twitter.com/MoongaDez).
   
 
 <br/>  
