@@ -13,6 +13,7 @@
 - 🌍 Based in **Lusaka, Zambia**, working with global clients and local businesses alike.
 - 💼 Currently consulting at **Ahava Consulting Ltd.**, leading digital transformation projects using cloud-native and AI-powered tools.
 - 🏢 Founder at **VizionIT Solutions Zambia** – building websites and digital tools that bring client visions to life.
+- 📄 [View My Resume (PDF)](https://github.com/DezMoon/DezMoon/raw/main/Desmond%20Moonga%20Resume%202025%20Full%20Stack%20Dev.pdf)
 
 
 ---
